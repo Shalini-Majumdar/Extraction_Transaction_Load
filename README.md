@@ -55,5 +55,5 @@ data/
 - `python-dotenv` - For loading environment variables from a .env file
 
 ## Author
-Shalini Majumdar (https://github.com/your-username)
+Shalini Majumdar (https://github.com/Shalini-Majumdar)
 
